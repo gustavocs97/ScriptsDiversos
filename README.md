@@ -1,4 +1,4 @@
-# Scripts Diversos
+# Scripts Diversos [EM CONSTRUÇÂO]
 
 Este repositório contém diversos scripts úteis para diferentes finalidades.
 
