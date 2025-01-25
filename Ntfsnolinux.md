@@ -1,10 +1,6 @@
-Claro! Vou ajustar o tutorial para que fique mais limpo, com **emojis moderados** e **alertas claros**, perfeito para você documentar no GitHub. 📘✨
-
----
-
 # 🛠️ **Tutorial para Resolver Problemas de Montagem de Disco NTFS no Ubuntu**
 
-Você está enfrentando dificuldades para montar seu disco externo NTFS de 8 TB (`/dev/sdb1`) no Ubuntu? Siga este guia passo a passo para solucionar o problema e acessar seus arquivos com segurança. 🚀
+Você está enfrentando dificuldades para montar seu disco externo NTFS no Ubuntu? Siga este guia passo a passo para solucionar o problema e acessar seus arquivos com segurança. 🚀
 
 ---
 
@@ -247,8 +243,5 @@ Você realizou várias etapas importantes para tentar resolver o problema de mon
 **🔔 Atenção Final:**
 Se, após seguir todos os passos acima, o problema persistir, pode haver uma **falha de hardware** no disco externo. Nesse caso, buscar assistência profissional em recuperação de dados seria a melhor opção para evitar perda permanente de informações. 🆘💾
 
-**📢 Se precisar de mais assistência ou encontrar mensagens de erro específicas durante qualquer uma das etapas acima, por favor, compartilhe essas informações para que possamos fornecer assistência adicional.**
 
----
 
-Espero que este guia com **emojis** e **alertas moderados** facilite a compreensão e ajude a resolver o problema com seu disco externo NTFS no Ubuntu! 🌟👍
